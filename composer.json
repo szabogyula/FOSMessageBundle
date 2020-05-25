@@ -1,5 +1,5 @@
 {
-    "name": "szabogyula/message-bundle",
+    "name": "friendsofsymfony/message-bundle",
     "type": "symfony-bundle",
     "description": "Provides user-to-user messaging features for your Symfony application.  FORK",
     "keywords": ["symfony", "message", "messaging"],
